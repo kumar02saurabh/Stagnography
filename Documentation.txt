@@ -1,0 +1,7 @@
+Name : Saurabh Kumar 
+Date of Project Completion : 30-01-2024
+Description :
+Steganography : The Practice of hiding information within other data, such as images, audio, or text, to conceal messages,
+                This project Based on Image Steganography (.bmp)
+                Hiding messages inside image files by altering pixel values.
+                The Least Significant Bit (LSB) method is the most common, where the smallest pixel value changes encode data without 			noticeable visual differences.
